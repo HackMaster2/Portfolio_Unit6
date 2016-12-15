@@ -38,3 +38,6 @@
         display: block;
       }
     }
+    .project-title:visited{
+        text-decoration: none;
+    }
